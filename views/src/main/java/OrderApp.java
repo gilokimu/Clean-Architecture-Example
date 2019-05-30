@@ -1,8 +1,6 @@
-import com.shopsoko.services.order.OrderApplication;
+import me.gilo.OrderApplication;
 import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication
 public class OrderApp {
 
 	public static void main(String[] args) {

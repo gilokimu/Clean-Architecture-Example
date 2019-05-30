@@ -1,4 +1,4 @@
-package com.shopsoko.services.order;
+package me.gilo.order;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
